@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-    <!-- منوی بالا -->
+
     <header>
         <nav>
             <div class="logo">رزرو خودرو</div>
@@ -22,7 +22,7 @@
         </nav>
     </header>
 
-    <!-- هدر اصلی -->
+   
     <section class="hero">
         <div class="hero-content" dir="rtl" >
             <h1>اجاره خودرو: سریع، آسان و به صرفه</h1>
@@ -31,7 +31,6 @@
         </div>
     </section>
 
-    <!-- فرم رزرو -->
     <section class="booking-form">
         <div class="form-container">
             <h2>رزرو آنلاین خودرو</h2>
@@ -56,7 +55,7 @@
         </div>
     </section>
 
-    <!-- دسته‌بندی خدمات -->
+    
     <section class="services">
         <h2>خدمات ما</h2>
         <div class="service-cards">
@@ -78,7 +77,7 @@
         </div>
     </section>
 
-    <!-- فوتر -->
+    
     <footer>
         <p>ساخته شده توسط امیر حسین شبانی</p>
     </footer>
