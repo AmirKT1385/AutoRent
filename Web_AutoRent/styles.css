@@ -160,7 +160,7 @@ form {
     border-radius: 5px;
     cursor: pointer;
     position: relative;
-    display: block;
+    display: flex;
     font-size: 1rem;
     align-items: center;
     height: 45px;
@@ -216,6 +216,60 @@ footer {
     text-align: center;
     padding: 1.5rem;
     margin-top: 2rem;
+}
+.pic-btn{
+    align-items: center;
+    border-radius: 5px;
+    background-color:#007BFF;
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px !important;
+    margin-bottom: 0px !important  ;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+  }
+
+  .bimg{
+      width: 100% !important;
+      height: 170px !important;
+      border-radius: 10px 10px 0px 0px;
+
+  }
+  .pic-text{
+      padding: 10px;
+      border: 1px solid rgba(51, 51, 51, 0.233);
+      box-shadow: -2px 2px 2px rgba(51, 51, 51, 0.123);
+      border-radius: 10px;
+      width: 26%;
+      margin-bottom: 300px;
+      
+  }
+  .pic {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    text-align: right;
+}
+.pic-textm {
+    text-align: right;
+    padding: 2px 5px;
+}
+.pic-price{
+    background-color: rgba(211, 211, 211, 0.281);
+    border-radius: 5px;
+    border: 1px solid rgba(51, 51, 51, 0.137);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    margin: 10px 2px;
+}
+.pic-z{
+    display: flex;
+    justify-content: space-between;
 }
 
 
